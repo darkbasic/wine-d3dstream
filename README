@@ -1,0 +1,2 @@
+This overlay allows you to use the latest version of wine with D3D command stream patches: http://www.winehq.org/pipermail/wine-devel/2013-September/101106.html
+NOTE: Make sure you have HKCU/Software/Wine/Direct3D/CSMT = "enabled" in regedit.
